@@ -1,0 +1,15 @@
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+D:\Yuri\Downloads\a30dd598-fff1-4523-92bc-86cf312b2c67 (1)\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
